@@ -6,7 +6,7 @@ import time
 
 #initialization
 
-driver = webdriver.Chrome("C:/Users/rajaa/Desktop/projects/AVYT/chromedriver_updated.exe")
+driver = webdriver.Chrome("C:/Users/rajaa/Desktop/projects/AVYT/chromedriver.exe")
 driver.get('https://www.google.com')
 driver.maximize_window()
 time.sleep(3)
